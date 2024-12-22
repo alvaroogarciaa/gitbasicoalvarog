@@ -6,27 +6,27 @@ En este documento, nombraré en mi opinion cuales son mis jugadores favoritos
 
 ## 1. **Cristano Ronaldo**
    - **Nacionalidad**: Portugues
-   - **Posición**: Delantero Centro
+   - **Posición**: Delantero
    - **Wikipedia**: [ver wiki del bicho siu](https://es.wikipedia.org/wiki/Cristiano_Ronaldo)
      
 ## 2. **Neymar**
    - **Nacionalidad**: Brasil
-   - **Posición**: Extremo Izquierdo
+   - **Posición**: Extremo
    - **Wikipedia**: [ver wiki de neymar](https://es.wikipedia.org/wiki/Neymar)
      
 ## 3. **Ronaldinho**
    - **Nacionalidad**: Brasil
-   - **Posición**: Extremo Izquierdo
+   - **Posición**: Extremo
    - **Wikipedia**: [ver wiki del piños](https://es.wikipedia.org/wiki/Ronaldinho)
      
 ## 4. **Zidedine Zidane**
    - **Nacionalidad**: Francés
-   - **Posición**: Mediocentro
+   - **Posición**: Medio
    - **Wikipedia**: [ver wiki de ZZ](https://es.wikipedia.org/wiki/Zinedine_Zidane)
      
 ## 5. **Isco**
    - **Nacionalidad**: Español
-   - **Posición**: Enganche
+   - **Posición**: Medio
    - **Wikipedia**: [ver wiki de Magic Isco](https://es.wikipedia.org/wiki/Isco)
 <<<<<<< HEAD
 "Cambio desde carpetaA" 
