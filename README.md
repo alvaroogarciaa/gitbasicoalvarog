@@ -6,7 +6,7 @@ En este documento, nombraré en mi opinion cuales son mis jugadores favoritos
 
 ## 1. **Cristano Ronaldo**
    - **Nacionalidad**: Portugues
-   - **Posición**: Delantero
+   - **Posición**: Delantero Centro
    - **Wikipedia**: [ver wiki del bicho siu](https://es.wikipedia.org/wiki/Cristiano_Ronaldo)
      
 ## 2. **Neymar**
@@ -26,7 +26,7 @@ En este documento, nombraré en mi opinion cuales son mis jugadores favoritos
      
 ## 5. **Isco**
    - **Nacionalidad**: Español
-   - **Posición**: Medio
+   - **Posición**: Enganche
    - **Wikipedia**: [ver wiki de Magic Isco](https://es.wikipedia.org/wiki/Isco)
 <<<<<<< HEAD
 "Cambio desde carpetaA" 
