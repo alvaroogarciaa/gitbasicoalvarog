@@ -28,3 +28,8 @@ En este documento, nombraré en mi opinion cuales son mis jugadores favoritos
    - **Nacionalidad**: Español
    - **Posición**: Medio
    - **Wikipedia**: [ver wiki de Magic Isco](https://es.wikipedia.org/wiki/Isco)
+<<<<<<< HEAD
+"Cambio desde carpetaA" 
+=======
+"Cambio desde carpetaA" 
+>>>>>>> e3bdbe17ad422d21afcdf4cfc9cc54c5976da7a8
