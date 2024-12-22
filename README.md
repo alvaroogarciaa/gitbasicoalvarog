@@ -11,7 +11,7 @@ En este documento, nombraré en mi opinion cuales son mis jugadores favoritos
      
 ## 2. **Neymar**
    - **Nacionalidad**: Brasil
-   - **Posición**: Extremo
+   - **Posición**: Extremo Izquierdo
    - **Wikipedia**: [ver wiki de neymar](https://es.wikipedia.org/wiki/Neymar)
      
 ## 3. **Ronaldinho**
